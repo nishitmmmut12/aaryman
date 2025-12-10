@@ -1,0 +1,22 @@
+h2{
+    color: rgb(78, 7, 7)
+}
+
+form{
+    border-color: brown;
+        
+}
+img{
+    align-items: end;
+
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+ .swastika-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+ }
